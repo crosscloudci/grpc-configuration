@@ -1,1 +1,1 @@
-# testproj-configuration
+# grpc-configuration
